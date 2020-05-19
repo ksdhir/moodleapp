@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.vidyamantra.cmoodleapp200" version="3.8.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>iBerry Live</name>
-    <description>Online courses for Secondary Education including subjects like Science, Mathematics, English etc.</description>
+<widget id="com.vidyamantra.cmoodleapp192" version="3.8.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Shunya Academy</name>
+    <description>
+	   Shunya Academy App is one-point solution for enhancing your capability to succeed in competitive examinations, acquiring skill sets to outstand in career building, Soft skill, language learning, Music, Programming, Designing and much more... Just create a username and password to begin connected and collective learning powered by Artificial intelligence for individual performance monitoring.
+	</description>
     <author email="sales@vidyamantra.com" href="https://www.keytoschool.com/moodle-mobile-app/">Vidya Mantra EduSystems Pvt. Ltd.</author>
     <content src="index.html" />
     <access origin="*" />
@@ -152,7 +154,7 @@
     <plugin name="cordova-plugin-badge" spec="0.8.8" />
     <plugin name="cordova-plugin-camera" spec="4.1.0" />
     <plugin name="cordova-plugin-customurlscheme" spec="4.4.0">
-        <variable name="URL_SCHEME" value="iberrylive" />
+        <variable name="URL_SCHEME" value="shunyaacademy" />
     </plugin>
     <plugin name="cordova-plugin-device" spec="2.0.3" />
     <plugin name="cordova-plugin-file" spec="6.0.2" />
