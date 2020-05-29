@@ -576,6 +576,42 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:578987199728:android:adaaf27d0a0bc47ea3c635",
+        "android_client_info": {
+          "package_name": "com.vidyamantra.cmoodleapp202"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578987199728-06lfbbakqie43b42t0b0ldot518uphag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQfqJGtmxXDg-2cqSme08ZB9RCk9w9sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578987199728-06lfbbakqie43b42t0b0ldot518uphag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "578987199728-0oooigc83msjrsltnobro29vo5d477b6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vidyamantra.cmoodleapp201"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:578987199728:android:4365a0c4bf2458c1",
         "android_client_info": {
           "package_name": "com.vidyamantra.cmoodleapp55"
