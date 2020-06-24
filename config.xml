@@ -26,7 +26,9 @@
     <preference name="AppendUserAgent" value="MoodleMobile" />
     <preference name="android-minSdkVersion" value="19" />
     <preference name="android-targetSdkVersion" value="29" />
-    <preference name="UIWebViewBounce" value="false" />
+    <!-- Removed to handle IOS archive upload (developer.apple.com) error -->
+    <!-- <preference name="UIWebViewBounce" value="false" /> -->
+    <preference name="WKWebViewOnly" value="true" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="BackupWebStorage" value="none" />
     <preference name="ScrollEnabled" value="false" />
